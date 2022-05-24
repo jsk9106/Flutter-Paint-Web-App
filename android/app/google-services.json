@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "927321111322",
+    "project_id": "flutter-paint-web-app",
+    "storage_bucket": "flutter-paint-web-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927321111322:android:4f9cd8879f5740a5768aa3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_paint_web_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927321111322-c2ri8joeadsrnnerqn4gsvtdbst4n3gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-UsI0OnbS3JSN64GHJbYVA09MdjxxvSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927321111322-c2ri8joeadsrnnerqn4gsvtdbst4n3gd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
